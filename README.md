@@ -1,3 +1,5 @@
+#SKIP THIS LAB - THERE IS PROBLEM WITH THE SYNTAX
+
 # Let's Learn About Migrations
 
 ## Objective
